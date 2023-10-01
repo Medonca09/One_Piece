@@ -69,9 +69,10 @@ main .personagem .imagem {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    width: 180px;
     justify-content: center;
     align-items:center ;
-    gap: 20px;
+    gap: 10px;
     background: rgb(0, 0, 0, 0.3);
 }
 
@@ -86,7 +87,7 @@ main .personagem .imagem {
     border-radius: 50%;
 }
 
-.botao .selecionado {
+.botoes .botao.selecionado {
     transform: scale(1.2);
     box-shadow: 0 0 10px #d9d9d9;
 }
