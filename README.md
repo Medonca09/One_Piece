@@ -1,6 +1,6 @@
 # Página sobre One Piece
 
-![One Piece] (https://github.com/Medonca09/One_Piece/blob/main/Captura%20de%20tela%202024-10-23%20084658.png)
+![One Piece](https://github.com/Medonca09/One_Piece/blob/main/Captura%20de%20tela%202024-10-23%20084658.png)
 
 ## Descrição
 Este projeto é uma página dedicada ao anime *One Piece*, focada em mostrar a biografia da tripulação dos Chapéus de Palha. Cada personagem da tripulação terá sua própria seção com uma descrição detalhada, habilidades, e sua importância na história.
