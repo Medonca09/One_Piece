@@ -32,6 +32,6 @@ Este projeto é uma página dedicada ao anime *One Piece*, focada em mostrar a b
 Clone o repositório e abra o arquivo `index.html` no seu navegador:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git]
 cd seu-repositorio
 open index.html
