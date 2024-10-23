@@ -62,4 +62,8 @@
     .botoes .botao img {
         max-width: 50px;
     }
+
+    .botoes .botao:nth-child(5) {
+        margin-bottom: 20px;
+    }
 }
