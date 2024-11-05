@@ -1,4 +1,4 @@
-One Piece ☠️🌊⛵
+## One Piece ☠️🌊⛵
 
 ![One Piece](https://github.com/Medonca09/One_Piece/blob/main/Captura%20de%20tela%202024-10-23%20084658.png)
 
@@ -32,6 +32,6 @@ Este projeto é uma página dedicada ao anime *One Piece*, focada em mostrar a b
 Clone o repositório e abra o arquivo `index.html` no seu navegador:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git]
-cd seu-repositorio
+git clone [https://github.com/Medonca09/One_Piece.git]
+cd One_piece
 open index.html
